@@ -1,0 +1,21 @@
+// Query params
+// app.get('/users', (request, response) => {
+//   const query = request.query;
+//   console.log(query);
+
+// Route params
+// app.get('/users/:id', (request, response) => {
+//   const params = request.params;
+//   console.log(params);
+
+// Request Body
+// routes.get('/user', (request, response) => {
+//   const body = request.body;
+//   console.log(body);
+
+// return response.send('Hello world');
+
+// return response.json({
+//   evento: 'Semana OmniStack 11.0',
+//   Aluno: 'Deivid Mafra'
+// });
